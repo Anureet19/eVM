@@ -2,7 +2,7 @@
 """
 Created on Tue Sep 05 14:10:11 2017
 
-@author: Arnav
+@author: Anureet
 """
 import sqlite3
 from sqlite3 import *
